@@ -10,6 +10,9 @@ Before you begin, ensure you have the following installed on your system:
 - Go Programming Language: [Install Go](https://golang.org/doc/install)
 - YouTube-DL: [Install YouTube-DL](https://github.com/ytdl-org/youtube-dl#installation)
 - FFmpeg: [Install FFmpeg](https://ffmpeg.org/download.html)
+- and hope ytdl is updated, and works
+![image](https://github.com/user-attachments/assets/a703d7e6-9b28-4f81-9a5e-c3bcc28c6db9)
+
 
 ## Project Initialization
 
